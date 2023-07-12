@@ -1,0 +1,11 @@
+module spider PyTorch
+ml blablabla
+nvidia-smi
+export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6
+export CUDA_DEVICE_ORDER=PCI_BUS_ID  
+
+error epoch 1 = 1.6      43
+error epoch 1 = 1.2726   53
+
+
+ssl._create_unverified_context
